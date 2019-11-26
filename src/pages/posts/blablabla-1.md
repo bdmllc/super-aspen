@@ -10,4 +10,10 @@ menus:
     weight: 4
 template: post
 ---
+![](/images/2.jpg)
+
+![](/images/3.jpg)
+
+![]()
+
 Lorem ipsum
